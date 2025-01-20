@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Desarrollar una interfaz de usuario que permita el inicio de sesión, obtener datos desde una
+Desarrollar una interfaz de usuario para emilys que permita el inicio de sesión, obtener datos desde una
 API y generar un gráfico.
 
 
